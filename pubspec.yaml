@@ -1,4 +1,4 @@
-name: draggable_scrollbar
+name: draggable_scrollbar_sliver
 description: A scrollbar that can be dragged for quickly navigation through a vertical list.
              Additional option is showing label next to scrollthumb with information about current item.
 version: 0.1.0
